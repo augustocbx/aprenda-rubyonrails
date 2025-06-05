@@ -152,9 +152,8 @@ Nome do Evento | Região Realizada
 :-- | :--
 [Rails Girls](http://railsgirls.com) | São Paulo, Porto Alegre, Rio de Janeiro, Belo Horizonte, Recife, Maceió e Salvador
 [GURU-SP](https://gurusp.org) | São Paulo
-[Rubyconf](http://www.rubyconf.com.br) | São Paulo
-[Ruby on Rio](http://rubyonrio.com) | Rio de Janeiro
-[Tropical Ruby](http://tropicalrb.com) | Porto de Galinhas
+[Ruby on Rio](https://www.meetup.com/pt-BR/rubyonrio/) | Rio de Janeiro
+[Tropical on Rails](https://www.tropicalonrails.com/) | Porto de Galinhas
 [Ruby on Rails BH](http://www.meetup.com/pt-BR/Ruby-On-Rails-BH/) | Belo Horizonte
 
 [Ir para o índice](#Índice)
